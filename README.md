@@ -33,7 +33,7 @@ This research explores how GenAI models can reduce textile waste by:
 ## 🔮 Future Repository Updates
 
 This repository will be expanded to include:
-- ComfyUI node workflow configuration files
+- ComfyUI node workflow configuration 
 - Quantitative evaluation scripts (FID, KID, SSIM, LPIPS, CLIP-S)
 - LoRA integration examples and prompt formatting
 - Full source code for the image generation pipeline
