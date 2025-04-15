@@ -33,10 +33,10 @@ This research explores how GenAI models can reduce textile waste by:
 ## 🔮 Future Repository Updates
 
 This repository will be expanded to include:
-- 📦 ComfyUI node workflow configuration files
-- 🧪 Quantitative evaluation scripts (FID, KID, SSIM, LPIPS, CLIP-S)
-- 🧵 LoRA integration examples and prompt formatting
-- 🛠️ Full source code for the image generation pipeline
+- ComfyUI node workflow configuration files
+- Quantitative evaluation scripts (FID, KID, SSIM, LPIPS, CLIP-S)
+- LoRA integration examples and prompt formatting
+- Full source code for the image generation pipeline
 
 ---
 
@@ -45,5 +45,5 @@ This repository will be expanded to include:
 If you reference this repository or dataset in your work, please cite as:
 
 ```
-Ilham Ghori. "GenAI-Driven Image Generation Pipeline for Sustainable Garment Design and Waste Reduction in Fashion Production." Research project, 2025. (Unpublished)
+(Unpublished)
 ```
