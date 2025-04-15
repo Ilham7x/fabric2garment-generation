@@ -10,7 +10,7 @@ This repository supports an ongoing research project focused on applying Generat
 
 The `fabric_images/` folder contains **10 preprocessed fabric images**, which were used as conditioning inputs for the garment generation pipeline. These images were extracted from product thumbnails in the [Fashion Product Images Dataset (Kaggle)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset) and carefully curated for texture clarity.
 
-### 🖼️ Image Preprocessing
+### Image Preprocessing
 
 All fabric images have been:
 - **Resized to 512×512 pixels** using **LANCZOS interpolation** for optimal texture fidelity.
@@ -19,18 +19,18 @@ All fabric images have been:
 
 These preprocessed images were used in a **Stable Diffusion 1.5-based pipeline** implemented via **ComfyUI**, conditioned by both fabric image input and simple text prompts (e.g., “a floral dress made from this fabric”).
 
----
+--
 
-## 🎯 Project Objective
+## Project Objective
 
 This research explores how GenAI models can reduce textile waste by:
 - **Generating realistic garment visuals** using digital fabric inputs.
 - **Minimizing the need for physical sampling**, which contributes significantly to pre-consumer waste in fashion production.
 - Empowering designers with **creative, low-waste prototyping tools**.
 
----
+--
 
-## 🔮 Future Repository Updates
+## Future Repository Updates
 
 This repository will be expanded to include:
 - 📦 ComfyUI node workflow configuration files
