@@ -19,7 +19,7 @@ All fabric images have been:
 
 These preprocessed images were used in a **Stable Diffusion 1.5-based pipeline** implemented via **ComfyUI**, conditioned by both fabric image input and simple text prompts (e.g., “a floral dress made from this fabric”).
 
---
+---
 
 ## 🎯 Project Objective
 
@@ -28,7 +28,7 @@ This research explores how GenAI models can reduce textile waste by:
 - **Minimizing the need for physical sampling**, which contributes significantly to pre-consumer waste in fashion production.
 - Empowering designers with **creative, low-waste prototyping tools**.
 
---
+---
 
 ## 🔮 Future Repository Updates
 
