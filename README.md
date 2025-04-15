@@ -13,11 +13,11 @@ The `fabric_images/` folder contains **10 preprocessed fabric images**, which we
 ### Image Preprocessing
 
 All fabric images have been:
-- **Resized to 512×512 pixels** using **LANCZOS interpolation** for optimal texture fidelity.
-- **Saved as high-quality PNG files**.
+- Resized to 512×512 pixels using LANCZOS interpolation for optimal texture fidelity.
+- Saved as high-quality PNG files.
 - Renamed using a consistent format: `fabric_01.png` to `fabric_10.png`.
 
-These preprocessed images were used in a **Stable Diffusion 1.5-based pipeline** implemented via **ComfyUI**, conditioned by both fabric image input and simple text prompts (e.g., “a floral dress made from this fabric”).
+These preprocessed images were used in a Stable Diffusion 1.5-based pipeline implemented via ComfyUI, conditioned by both fabric image input and simple text prompts (e.g., “a floral dress made from this fabric”).
 
 ---
 
