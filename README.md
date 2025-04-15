@@ -21,7 +21,7 @@ These preprocessed images were used in a **Stable Diffusion 1.5-based pipeline**
 
 --
 
-## Project Objective
+## 🎯 Project Objective
 
 This research explores how GenAI models can reduce textile waste by:
 - **Generating realistic garment visuals** using digital fabric inputs.
@@ -30,7 +30,7 @@ This research explores how GenAI models can reduce textile waste by:
 
 --
 
-## Future Repository Updates
+## 🔮 Future Repository Updates
 
 This repository will be expanded to include:
 - 📦 ComfyUI node workflow configuration files
