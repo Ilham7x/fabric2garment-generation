@@ -4,7 +4,7 @@
 
 This repository supports an ongoing research project focused on applying Generative AI to assist sustainable fashion design workflows. It currently contains a custom dataset of fabric screenshots used for conditioning garment generation models. Future updates will include implementation code, ComfyUI workflows, and evaluation scripts.
 
---
+---
 
 ## 📁 Dataset Overview
 
