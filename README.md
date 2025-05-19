@@ -2,7 +2,7 @@
 
 **GenAI-Driven Image Generation Pipeline for Sustainable Garment Design and Waste Reduction in Fashion Production**
 
-This repository supports an ongoing research project focused on applying Generative AI to assist sustainable fashion design workflows. It currently contains a custom dataset of fabric screenshots used for conditioning garment generation models. Future updates will include implementation code, ComfyUI workflows, and evaluation scripts.
+This repository supports a research project focused on using Generative AI to assist sustainable fashion design. It includes a curated fabric dataset, a ComfyUI-based image generation pipeline, and evaluation notebooks for assessing model performance.
 
 ---
 
