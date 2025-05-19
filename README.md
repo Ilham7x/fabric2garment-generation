@@ -21,22 +21,31 @@ These preprocessed images were used in a Stable Diffusion 1.5-based pipeline imp
 
 ---
 
+## ⚙️ ComfyUI Implementation
+
+The notebook `ComfyUI_Pipeline.ipynb` contains:
+- An overview of the ComfyUI-based workflow using LoRA-enhanced Stable Diffusion 1.5.
+- The model setup with fixed parameters: **CFG = 8**, **Steps = 50**, **Denoise = 0.85**, **Sampler = Euler**, **Seed = 2024**.
+---
+
+## 📊 Evaluation Metrics
+
+The notebook `Evaluation_Metrics.ipynb` contains:
+- Metric definitions and calculation code for:
+  - **FID**
+  - **KID**
+  - **SSIM**
+  - **LPIPS**
+  - **CLIP-S**
+- Comparison of results from three diffusion models: **DreamShaper v8**, **Realistic Vision v5.1**, and **MajicMix v5**.
+---
+
 ## 🎯 Project Objective
 
 This research explores how GenAI models can reduce textile waste by:
 - **Generating realistic garment visuals** using digital fabric inputs.
 - **Minimizing the need for physical sampling**, which contributes significantly to pre-consumer waste in fashion production.
 - Empowering designers with **creative, low-waste prototyping tools**.
-
----
-
-## 🔮 Future Repository Updates
-
-This repository will be expanded to include:
-- ComfyUI node workflow configuration 
-- Quantitative evaluation scripts (FID, KID, SSIM, LPIPS, CLIP-S)
-- LoRA integration examples and prompt formatting
-- Full source code for the image generation pipeline
 
 ---
 
