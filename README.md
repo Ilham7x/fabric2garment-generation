@@ -54,5 +54,7 @@ This research explores how GenAI models can reduce textile waste by:
 If you reference this repository or dataset in your work, please cite as:
 
 ```
-(Unpublished)
+Ghori, I., Karim, K., & Alkawadri, D. (2025).
+GenAI-Driven Image Generation Pipeline for Sustainable Garment Design and Waste Reduction in Fashion Production.
+Presented at the AAAI Human-AI Collaboration Symposium (AAAI SuSS-25).
 ```
