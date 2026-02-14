@@ -51,6 +51,7 @@ This research explores how GenAI models can reduce textile waste by:
 ## 📄 Publication
 
 This work was presented at the AAAI Summer Symposium Series 2025 (SuSS-25) — Human-AI Collaboration Symposium.
+Paper: [View PDF]((https://ojs.aaai.org/index.php/AAAI-SS/article/view/36056/38211))
 
 ---
 
